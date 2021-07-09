@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: lavender
 }
 img {
     max-width: 300px;
@@ -16,4 +16,22 @@ h1 {
 }
 h2 {
     text-align: center;
+}
+h3 {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+#listedFirst:hover {
+    color: blue;
+}
+#listedSecond:hover {
+    color: red;
+}
+#listedThird:hover {
+    color: purple;
 }

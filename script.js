@@ -1,4 +1,3 @@
-const h2 = document.createElement('h2');
-h2.textContent = "This content added by JavaScript";
+const images = document.getElementByClass('images');
 
-document.querySelector('body').appendChild(h2); 
+images.addEventListener('onmouseover', )
